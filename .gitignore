@@ -6,3 +6,4 @@ resume.synctex.gz
 resume.top
 resume.tui
 .DS_Store
+*.log
